@@ -1,4 +1,4 @@
-const cutText = require('../cutText.js');
+const cutText = require('../cutText');
 const expect = require('chai').expect;
 
 describe('CutText', () => {
